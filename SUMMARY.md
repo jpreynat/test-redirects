@@ -1,6 +1,6 @@
 # Table of contents
 
 * [README](README.md)
-* [First Page](first-page.md)
+* [First Page](page-one.md)
 * [Second Page](second-page.md)
 
