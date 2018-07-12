@@ -1,4 +1,3 @@
 # Page two
 
-Content for second page.
-
+Content for second page, updated.
