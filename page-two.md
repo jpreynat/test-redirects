@@ -1,4 +1,4 @@
 # Page two
 
-Content for second page, not updated.
+Content for second page, updated.
 
