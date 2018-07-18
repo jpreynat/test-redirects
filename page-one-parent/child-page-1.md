@@ -1,4 +1,4 @@
 # Child page 1
 
-Content for Child page 1 parent.
+Content for Child page 1.
 
