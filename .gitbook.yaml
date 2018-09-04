@@ -1,3 +1,4 @@
 redirects:
   some/path: ./page-two.md
   somepath: ./page-two.md
+  other/path: ./page-two.md
